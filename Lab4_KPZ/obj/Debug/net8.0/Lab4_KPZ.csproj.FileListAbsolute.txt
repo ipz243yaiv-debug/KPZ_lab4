@@ -1,0 +1,14 @@
+C:\Users\Worker\source\repos\Lab4_KPZ\Lab4_KPZ\bin\Debug\net8.0\Lab4_KPZ.exe
+C:\Users\Worker\source\repos\Lab4_KPZ\Lab4_KPZ\bin\Debug\net8.0\Lab4_KPZ.deps.json
+C:\Users\Worker\source\repos\Lab4_KPZ\Lab4_KPZ\bin\Debug\net8.0\Lab4_KPZ.runtimeconfig.json
+C:\Users\Worker\source\repos\Lab4_KPZ\Lab4_KPZ\bin\Debug\net8.0\Lab4_KPZ.dll
+C:\Users\Worker\source\repos\Lab4_KPZ\Lab4_KPZ\bin\Debug\net8.0\Lab4_KPZ.pdb
+C:\Users\Worker\source\repos\Lab4_KPZ\Lab4_KPZ\obj\Debug\net8.0\Lab4_KPZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Worker\source\repos\Lab4_KPZ\Lab4_KPZ\obj\Debug\net8.0\Lab4_KPZ.AssemblyInfoInputs.cache
+C:\Users\Worker\source\repos\Lab4_KPZ\Lab4_KPZ\obj\Debug\net8.0\Lab4_KPZ.AssemblyInfo.cs
+C:\Users\Worker\source\repos\Lab4_KPZ\Lab4_KPZ\obj\Debug\net8.0\Lab4_KPZ.csproj.CoreCompileInputs.cache
+C:\Users\Worker\source\repos\Lab4_KPZ\Lab4_KPZ\obj\Debug\net8.0\Lab4_KPZ.dll
+C:\Users\Worker\source\repos\Lab4_KPZ\Lab4_KPZ\obj\Debug\net8.0\refint\Lab4_KPZ.dll
+C:\Users\Worker\source\repos\Lab4_KPZ\Lab4_KPZ\obj\Debug\net8.0\Lab4_KPZ.pdb
+C:\Users\Worker\source\repos\Lab4_KPZ\Lab4_KPZ\obj\Debug\net8.0\Lab4_KPZ.genruntimeconfig.cache
+C:\Users\Worker\source\repos\Lab4_KPZ\Lab4_KPZ\obj\Debug\net8.0\ref\Lab4_KPZ.dll
