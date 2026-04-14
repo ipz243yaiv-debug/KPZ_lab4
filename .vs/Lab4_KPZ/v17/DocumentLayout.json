@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Worker\\source\\repos\\Lab4_KPZ\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{78D66C25-EF7F-441E-A1D2-9DE8E2A4CD6E}|task4\\task4.csproj|c:\\users\\worker\\source\\repos\\lab4_kpz\\task4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78D66C25-EF7F-441E-A1D2-9DE8E2A4CD6E}|task4\\task4.csproj|solutionrelative:task4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6942D7D7-33A6-46BC-BC72-34F057DE2621}|task3\\task3.csproj|c:\\users\\worker\\source\\repos\\lab4_kpz\\task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6942D7D7-33A6-46BC-BC72-34F057DE2621}|task3\\task3.csproj|solutionrelative:task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -32,6 +36,19 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Worker\\source\\repos\\Lab4_KPZ\\task4\\Program.cs",
+              "RelativeDocumentMoniker": "task4\\Program.cs",
+              "ToolTip": "C:\\Users\\Worker\\source\\repos\\Lab4_KPZ\\task4\\Program.cs",
+              "RelativeToolTip": "task4\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAIwEEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T19:40:10.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Worker\\source\\repos\\Lab4_KPZ\\task3\\Program.cs",
               "RelativeDocumentMoniker": "task3\\Program.cs",
               "ToolTip": "C:\\Users\\Worker\\source\\repos\\Lab4_KPZ\\task3\\Program.cs",
@@ -43,7 +60,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Worker\\source\\repos\\Lab4_KPZ\\task5\\Program.cs",
               "RelativeDocumentMoniker": "task5\\Program.cs",
@@ -51,12 +68,11 @@
               "RelativeToolTip": "task5\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-14T19:27:52.977Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-14T19:27:52.977Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Worker\\source\\repos\\Lab4_KPZ\\task2\\Program.cs",
               "RelativeDocumentMoniker": "task2\\Program.cs",
@@ -68,7 +84,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Worker\\source\\repos\\Lab4_KPZ\\Lab4_KPZ\\Program.cs",
               "RelativeDocumentMoniker": "Lab4_KPZ\\Program.cs",
